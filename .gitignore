@@ -1,0 +1,30 @@
+﻿# Dados e artefatos
+#data/
+#reports/
+private/
+Articles/
+
+# R
+rsconnect/
+.Rhistory
+.Rproj.user/
+*.Rproj
+*.RData
+*.RDS
+*.Rda
+
+# Google Drive link files
+*.gdoc
+*.gsheet
+*.gslides
+*.gdraw
+*.gform
+*.gtable
+
+# Python / notebooks
+__pycache__/
+.ipynb_checkpoints/
+
+# SO
+.DS_Store
+Thumbs.db
